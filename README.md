@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&width=1000&lines=Hey+There+👋;+I'm+a+Full-Stack+Developer;+MERN+%7C+Python+%7C+AI+Enthusiast;+50%2B+Projects+on+GitHub;Welcome+to+my+Profile+😎" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00e1ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=idk9012E&label=Profile+Views&color=00e1ff&style=flat-square" />
 </p>
 
 ---
@@ -58,8 +58,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=idk9012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idk9012&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -75,12 +75,17 @@
 
 👉 Digi-mind.netlify.app ( A digital Well Being Company To improve health and help people For better quality and Life )
 
-👉 https://seekers0xm.netlify.app ( My Project For Digitopia competition About Block Chain , Cybersec , It , Security and etc ) [ user:admin:Password:*You can Put anything in it there's no password* ]
+👉 https://seekers0xm.netlify.app ( My Project For Digitopia competition About Block Chain , Cybersec , It , Security and etc ) 
+
+{
+user:admin 
+Password:You can Put anything in it there's no password 
+}
 ---
 
 # 📫 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINK/](https://www.linkedin.com/in/omar-mohammed-aa0007322/"><img src="https://img.shields.io/badge/LinkedIn-00acee?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/omar-mohammed-aa0007322/"><img src="https://img.shields.io/badge/LinkedIn-00acee?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:omrm7hmd@email.com"><img src="https://img.shields.io/badge/Email-dd4b39?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
