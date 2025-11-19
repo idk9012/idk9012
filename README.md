@@ -69,11 +69,11 @@
 ---
 
 # 🚀 Featured Projects  
-👉 i3rbly.com ( First Ai Arabic Grammer Model )
+👉 https://i3rbly.com ( First Ai Arabic Grammer Model )
 
 👉 http://newhomefront.netlify.app ( A Frontend Preview For a Real Estate Agent with and Erp System )
 
-👉 Digi-mind.netlify.app ( A digital Well Being Company To improve health and help people For better quality and Life )
+👉 https://Digi-mind.netlify.app ( A digital Well Being Company To improve health and help people For better quality and Life )
 
 👉 https://seekers0xm.netlify.app ( My Project For Digitopia competition About Block Chain , Cybersec , It , Security and etc ) 
 
